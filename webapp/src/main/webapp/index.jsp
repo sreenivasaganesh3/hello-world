@@ -4,7 +4,7 @@
 we have completed the task.
 Will see sonarqube integration tomorrow and later artifactory....
 
-we have completed java code deployment.
+we have completed java code deployment successfully.
 
 <h2> Thank you and we will discuss sonarqube tomorrow </h2> 
 
