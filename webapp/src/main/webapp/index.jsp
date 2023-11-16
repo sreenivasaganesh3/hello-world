@@ -6,5 +6,5 @@ Will see sonarqube integration tomorrow and later artifactory....
 
 we have completed java code deployment.
 
-<h2> Thank you </h2> 
+<h2> Thank you for the java project </h2> 
 
